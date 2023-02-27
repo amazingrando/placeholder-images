@@ -1,0 +1,11 @@
+{
+  "colors": [
+    { "default": "#0eb747", "dark": "#0B9239", "light": "#4AC975" },
+    { "default": "#0f2c15", "dark": "#08200D", "light": "#244E2C" },
+    { "default": "#f8f5ec", "dark": "#EEEADE", "light": "#FFFDF6" },
+    { "default": "#e17c6f", "dark": "#B46459", "light": "#E89E93" },
+    { "default": "#dfeb8e", "dark": "#CBD96D", "light": "#E7F0AA" },
+    { "default": "#764775", "dark": "#5E395E", "light": "#987598" },
+    { "default": "#e7bfbe", "dark": "#CAA2A1", "light": "#EDCFCE" }
+  ]
+}
