@@ -5,12 +5,20 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "img": "./src/generateImage.js -w 200",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Randy Oest (randy@fourkitchens.com)",
   "license": "ISC",
   "dependencies": {
+    "eslint-config-wesbos": "^3.2.3",
     "pureimage": "^0.3.17"
+  },
+  "eslintConfig": {
+    "extends": [
+      "wesbos"
+    ],
+    "parserOptions": {
+      "importAssertions": true
+    }
   }
 }
