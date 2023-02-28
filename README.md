@@ -4,6 +4,8 @@
 
 Dynamically create placeholder images using the Four Kitchens colors and pixel pattern.
 
+![Example of use](./docs/assets/display.gif)
+
 ## Installation
 
 - Clone this repository.
