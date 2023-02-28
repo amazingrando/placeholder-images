@@ -25,6 +25,7 @@ Dynamically create placeholder images using the Four Kitchens colors and pixel p
 
 ## Future features
 
+- [ ] Add `-l` option to place labels (text) over the image.
 - [ ] Make this a website that can be used to replace PlaceIMG
 - [ ] Add `-r` as a flag for controlling how many pixels show, e.g. `low` and `high`.
 - [ ] Name the colors and allow a `-c` flag to call that color.
